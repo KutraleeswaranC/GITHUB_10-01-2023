@@ -3,6 +3,7 @@ package amazon;
 public class Login {
 	
 	
+
 	
 	public void password() {
 		
@@ -10,5 +11,12 @@ public class Login {
 		System.out.println("The password is : " + pass);
 	}
 	
+
+public void userName() {
+	
+	
+	String name = "kutraleeswaran";
+	System.out.println("The user name is : " + name);
+}
 
 }
