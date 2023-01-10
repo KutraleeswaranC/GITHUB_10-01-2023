@@ -2,7 +2,10 @@ package amazon;
 
 public class Login {
 	
-	
+	public void purchase() {
+		int i = 10;
+		System.out.println("the value is : " + i);
+	}
 
 	
 	public void password() {
